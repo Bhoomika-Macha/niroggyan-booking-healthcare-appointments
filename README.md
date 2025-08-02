@@ -91,7 +91,8 @@ Create a healthcare appointment booking system where users can:
 
 ## GitHub Repository
 
-👉 [GitHub Repo Link](https://github.com/your-username/niroggyan-healthcare-app)
+👉 [GitHub Repo Link](https://github.com/Bhoomika-Macha/niroggyan-booking-healthcare-appointments)
 
 ---
+
 
