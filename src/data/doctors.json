@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. K. Shilpi Reddy",
+    "specialization": "Obstetrician & Gynecologist",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.ebGX7qEBukvjpbGdrG4PWQHaHa?pid=Api",
+    "availability": "Available Today",
+    "schedule": ["2025-08-03T10:00:00", "2025-08-05T11:30:00"]
+  },
+  {
+    "id": 2,
+    "name": "Dr. T. Vijayalakshmi Nayak",
+    "specialization": "Dermatologist",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.vLuOHzucorvKSoednSoYNAAAAA?pid=Api",
+    "availability": "Fully Booked",
+    "schedule": []
+  },
+  {
+    "id": 3,
+    "name": "Dr. Harish Reddy",
+    "specialization": "Cardiologist",
+    "image": "https://tse1.mm.bing.net/th/id/OIP.eYsVa-B5FVRIOZDx5tl9rgHaJ4?pid=Api",
+    "availability": "On Leave",
+    "schedule": []
+  },
+  {
+    "id": 4,
+    "name": "Dr. Ashwini Gopal",
+    "specialization": "Radiation Oncologist",
+    "image": "https://tse1.mm.bing.net/th/id/OIP.qHkqcHrFERbs4-ACMy43xwHaI7?pid=Api",
+    "availability": "Available Today",
+    "schedule": ["2025-08-04T09:00:00", "2025-08-07T13:00:00"]
+  },
+  {
+    "id": 5,
+    "name": "Dr. Ajay Kumar Paruchuri",
+    "specialization": "Orthopedic Surgeon",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.OHk02dXOG-hKxa--UNVoJQHaHp?pid=Api",
+    "availability": "Available Today",
+    "schedule": ["2025-08-03T10:00:00", "2025-08-06T15:30:00"]
+  },
+  {
+    "id": 6,
+    "name": "Dr. Shankar Kumar",
+    "specialization": "Prosthodontist",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.e7VhNi8xX7eqBIuOON0eFAHaIm?pid=Api",
+    "availability": "Fully Booked",
+    "schedule": []
+  },
+  {
+    "id": 7,
+    "name": "Dr. Prashanth Rao",
+    "specialization": "Dental Surgeon",
+    "image": "https://tse1.mm.bing.net/th/id/OIP.-206HcdNK2JFX05gmufm8wHaJt?pid=Api",
+    "availability": "Available Today",
+    "schedule": ["2025-08-04T10:00:00", "2025-08-08T13:00:00"]
+  },
+  {
+    "id": 8,
+    "name": "Dr. Divya Banswada",
+    "specialization": "Cosmetologist",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.DFx5g7H2i-sDOEGoyDsGoAHaLG?pid=Api",
+    "availability": "On Leave",
+    "schedule": []
+  },
+  {
+    "id": 9,
+    "name": "Dr. Velpula Chandrakanth",
+    "specialization": "Cardiologist",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.gBxLp5VcOerrkflEo2EokAHaGH?pid=Api",
+    "availability": "Available Today",
+    "schedule": ["2025-08-05T09:00:00", "2025-08-07T12:00:00"]
+  },
+  {
+    "id": 10,
+    "name": "Dr. Navya Chowdary",
+    "specialization": "Dermatologist",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.NVaWcbCzr-O79AV1FP1PZAHaIY?pid=Api",
+    "availability": "Fully Booked",
+    "schedule": []
+  },
+  {
+    "id": 11,
+    "name": "Dr. Syeda Nikhat Baquer",
+    "specialization": "Dermatologist",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.TmWr-lqxVfGflh2O9rllUwAAAA?pid=Api",
+    "availability": "On Leave",
+    "schedule": []
+  },
+  {
+    "id": 12,
+    "name": "Dr. P. L. Chandravathi",
+    "specialization": "Dermatologist",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.KsloACOXYdgdQPEeqb9CiAHaLH?pid=Api",
+    "availability": "Available Today",
+    "schedule": ["2025-08-08T12:00:00", "2025-08-10T15:30:00"]
+  },
+  {
+    "id": 13,
+    "name": "Dr. Sushma Raavi",
+    "specialization": "Cosmetic Dermatologist",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.mI379dz1tWMxMdtMj3R_dAHaHS?pid=Api",
+    "availability": "Fully Booked",
+    "schedule": []
+  },
+  {
+    "id": 14,
+    "name": "Dr. Keerthana Kalva",
+    "specialization": "Dermatologist",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.9TI8vFHRmvB5o7jDWTmrYAHaJd?pid=Api",
+    "availability": "Available Today",
+    "schedule": ["2025-08-10T14:00:00", "2025-08-14T17:00:00"]
+  },
+  {
+    "id": 15,
+    "name": "Dr. Chandana Anantharaman",
+    "specialization": "Ophthalmologist",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.rXM9uE4ZJsg_pT09srEeCwAAAA?pid=Api",
+    "availability": "On Leave",
+    "schedule": []
+  },
+  {
+    "id": 16,
+    "name": "Dr. Aarti Mahajan",
+    "specialization": "Gynecologist",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.fLhJDlng1_4y-GRASPd-egHaHa?pid=Api",
+    "availability": "Available Today",
+    "schedule": ["2025-08-11T10:00:00", "2025-08-11T12:00:00"]
+  },
+  {
+    "id": 17,
+    "name": "Dr. Veena Satyavolu",
+    "specialization": "Endocrinologist",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.W5AAbBO0l8QtbuQ4wPkVLAAAAA?pid=Api",
+    "availability": "Fully Booked",
+    "schedule": []
+  },
+  {
+    "id": 18,
+    "name": "Dr. Richa Sharma",
+    "specialization": "Pulmonologist",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.RLuQiuOyO4THe94JZoSfUAAAAA?pid=Api",
+    "availability": "Available Today",
+    "schedule": ["2025-08-12T13:00:00"]
+  },
+  {
+    "id": 19,
+    "name": "Dr. Tanveer Iqbal",
+    "specialization": "Neurologist",
+    "image": "https://tse1.mm.bing.net/th/id/OIP.Lu8_BeTV67Jcs2Bj6UMBaQHaHa?pid=Api",
+    "availability": "On Leave",
+    "schedule": []
+  },
+  {
+    "id": 20,
+    "name": "Dr. Ishita Banerjee",
+    "specialization": "Ophthalmologist",
+    "image": "https://tse1.mm.bing.net/th/id/OIP.yQ_Mb16c046HQ5xh2CMelwHaJQ?pid=Api",
+    "availability": "Available Today",
+    "schedule": ["2025-08-14T10:30:00"]
+  }
+]

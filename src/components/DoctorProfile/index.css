@@ -1,0 +1,82 @@
+.profile-container {
+  padding: 24px;
+  font-family: "Segoe UI", sans-serif;
+}
+
+.back-button {
+  background-color: transparent;
+  color: #3366e7;
+  border: none;
+  font-size: 14px;
+  cursor: pointer;
+  margin-bottom: 16px;
+}
+
+.profile-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid #ddd;
+  padding: 24px;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  background-color: #fff;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.profile-image {
+  width: 120px;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 16px;
+}
+
+.profile-details {
+  text-align: center;
+}
+
+.profile-name {
+  font-size: 22px;
+  font-weight: 600;
+  color: #222;
+  margin-bottom: 8px;
+}
+
+.profile-specialization {
+  font-size: 16px;
+  color: #666;
+  margin-bottom: 8px;
+}
+
+.profile-availability {
+  font-size: 14px;
+  margin-bottom: 16px;
+}
+
+.book-btn {
+  background-color: #3366e7;
+  color: #fff;
+  border: none;
+  padding: 6px 14px;
+  font-size: 14px;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-top: 16px;
+}
+
+.book-btn:hover {
+  background-color: #2554c7;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+li {
+  font-size: 14px;
+  color: #444;
+  margin-bottom: 6px;
+}
